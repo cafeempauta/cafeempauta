@@ -44,15 +44,27 @@ Conheça também o projeto social e cultural ligado ao Café em Pauta:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎙️ Sobre mim – Clóvis Pontes
+🔭 Atualmente estou trabalhando em:
+Café em Pauta – um projeto que valoriza a história do café, cafeterias e turismo regional, tendo o projeto café e arte como instrumento de cidadania e inclusão.
+
+🌱 Atualmente estou aprendendo:
+Mais sobre ferramentas digitais para cultura, GitHub, e comunicação multiplataforma.
+
+👯 Estou procurando colaborar em:
+Iniciativas culturais, projetos de inclusão social por meio da arte e ações com impacto educacional.
+
+🤔 Estou procurando ajuda com:
+Divulgação de projetos, parcerias com cafeterias, apoio institucional, seguidores no isntagram e patrocínio.
+
+💬 Pergunte-me sobre:
+Café, turismo regional, cultura, exposições, leilões solidários e produção de conteúdo para projetos socioculturais.
+
+📫 Como entrar em contato comigo:
+📩 cafeempautabr@gmail.com
+📱 WhatsApp: (44) 99801-6851
+📸 Instagram: @cafeempautabr
+@projeto.cafeearte
 ### 📱 Acesse direto pelo QR Code
 
 <p align="center">
