@@ -36,12 +36,7 @@ Conheça também o projeto social e cultural ligado ao Café em Pauta:
 
 ## 📱 Siga o Café em Pauta
 
-### 📱 Acesse direto pelo QR Code
-
-<p align="center">
-  <img src="https://github.com/cafeempauta/cafeempauta/blob/main/qrcode.png?raw=true" width="250">
-</p>
-
+![qr_cafeempauta_instagram](https://github.com/user-attachments/assets/0f666ef7-a4e0-46d0-9436-8d134de6fbb2)
 <!--
 **cafeempauta/cafeempauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ...
