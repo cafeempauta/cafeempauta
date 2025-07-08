@@ -35,9 +35,6 @@ Conheça também o projeto social e cultural ligado ao Café em Pauta:
 > Criado por Clóvis Pontes. Mais que café: encontros, trajetos e memórias.
 
 ## 📱 Siga o Café em Pauta
-> Criado por Clóvis Pontes. Mais que café: encontros, trajetos e memórias.
-
-## 📱 Siga o Café em Pauta
 
 Escaneie o QR Code abaixo para visitar nosso Instagram:
 
@@ -47,14 +44,6 @@ Escaneie o QR Code abaixo para visitar nosso Instagram:
 **cafeempauta/cafeempauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ...
 -->
-
-## 📱 Siga o Café em Pauta
-
-Escaneie o QR Code abaixo para visitar nosso Instagram:
-
-![QR Code para o Instagram do Café em Pauta](https://raw.githubusercontent.com/cafeempauta/cafeempauta/main/docs/qrcode.png)
-<!--
-**cafeempauta/cafeempauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
