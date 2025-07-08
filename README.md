@@ -7,7 +7,7 @@ Um projeto que visita cafeterias, rotas de turismo, compartilha vivências e pro
 
 ## ✨ O que é o Café em Pauta?
 
-O Café em Pauta já percorreu mais de 280 mil km em todo o país, conhecendo lugares e cafeterias do Brasil, com registros autorais de experiências únicas, entrevistas, curiosidades, roteiros afetivos e dicas de turismo cultural. Com mais de 19 milhões e visualizações no Google Maps, entre pos 10% mais vistos no Brasil quando avaliamos lugares e cafeterias.
+O Café em Pauta já percorreu mais de 280 mil km em todo o país, conhecendo lugares e cafeterias do Brasil, com registros autorais de experiências únicas, entrevistas, curiosidades, roteiros afetivos e dicas de turismo cultural. Mais de 19 milhões de visualizações no Google Maps, entre pos 10% mais vistos no Brasil quando avaliamos lugares e cafeterias.
 
 ### O que você encontra por aqui:
 - 📍 Roteiros de cafeterias e experiências locais  
