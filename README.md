@@ -1,19 +1,19 @@
 # ☕ Café em Pauta
 
-**Café, histórias, turismo e experiências reais.**  
-Um projeto que visita cafeterias, compartilha vivências e promove a cultura através de uma xícara de café.
+**Café, histórias, turismo regionais e loais incríveis.**  
+Um projeto que visita cafeterias, rotas de turismo, compartilha vivências e promove a cultura através de uma xícara de café.
 
 ---
 
 ## ✨ O que é o Café em Pauta?
 
-O Café em Pauta é uma jornada por cafeterias do Brasil, com registros autorais de experiências sensoriais, entrevistas, curiosidades, roteiros afetivos e dicas de turismo cultural.
+O Café em Pauta já percorreu mais de 280 mil km em todo o país, conhecendo lugares e cafeterias do Brasil, com registros autorais de experiências únicas, entrevistas, curiosidades, roteiros afetivos e dicas de turismo cultural. Com mais de 19 milhões e visualizações no Google Maps, entre pos 10% mais vistos no Brasil quando avaliamos lugares e cafeterias.
 
 ### O que você encontra por aqui:
 - 📍 Roteiros de cafeterias e experiências locais  
 - 🎤 Histórias de quem vive o universo do café  
 - 📸 Imagens e relatos reais de visitas  
-- 🌍 Turismo com propósito e afeto  
+- 🌍 Turismo rural e regiões de todos os lugares, tradições e culturas  
 
 ---
 
