@@ -27,7 +27,7 @@ Conheça também o projeto social e cultural ligado ao Café em Pauta:
 ## 🔗 Redes Sociais e Contato
 
 - Instagram: [@cafeempautabr](https://instagram.com/cafeempautabr)  
-- Google Maps: Clóvis Pontes – Local Guide nível 9 (+19 milhões de visualizações)  
+- Google Maps: Clóvis Pontes – Local Guide nível 9 (+ de19 milhões de visualizações) - entre os 10% mais vistos no Brasil  
 - Contato: cafeempauta@gmail.com  
 
 ---
