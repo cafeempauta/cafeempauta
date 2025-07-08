@@ -1,6 +1,6 @@
 # ☕ Café em Pauta
 
-**Café, histórias, turismo regionais e locais incríveis.**  
+**Café, histórias, turismo regional e locais incríveis.**  
 São mais de 280 mil km percorridos conhecendo cafeterias, rotas de turismo, tradições e culturas em todas as regiões do Brasil, tomando o velho e bom café.
 
 ---
